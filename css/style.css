@@ -84,8 +84,8 @@ margin-top: -9px;}
   font-family: 'Roboto', sans-serif;
   background-color: transparent;
   border: 2px solid rgba(255,255,255,0.5);
-  padding: 18px 21px;
-  margin: 82px;
+  padding: 10px 10px;
+  margin: 25px;
   font-size: 20px;
   border-radius: 0;
   text-transform: uppercase;
@@ -100,8 +100,8 @@ margin-top: -9px;}
   
   .intro-text span{
     
-    font-size: 78px;
-    margin-top: 20px;
+    font-size: 82px;
+    margin-top: 50px;
     letter-spacing: 1px;
     background: linear-gradient(#6AEFF1,#B179EC);
   -webkit-background-clip: text;
